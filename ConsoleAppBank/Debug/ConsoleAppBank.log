@@ -1,0 +1,4 @@
+﻿  ConsoleAppBank.cpp
+c:\users\ankit rajput\desktop\tushar\consoleappbank\consoleappbank\consoleappbank.cpp(102): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleAppBank.vcxproj -> C:\Users\Ankit Rajput\Desktop\Tushar\ConsoleAppBank\Debug\ConsoleAppBank.exe
+  ConsoleAppBank.vcxproj -> C:\Users\Ankit Rajput\Desktop\Tushar\ConsoleAppBank\Debug\ConsoleAppBank.pdb (Full PDB)
